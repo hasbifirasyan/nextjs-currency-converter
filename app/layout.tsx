@@ -13,8 +13,15 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Currency Converter",
-  description: "Convert currencies easily using real-time exchange rates.",
+  title: "Currency Converter | Real-time Exchange Rates",
+  description: "Convert currencies easily using real-time exchange rates. Support for 20+ major currencies with dark/light mode interface.",
+  keywords: ["currency converter", "exchange rates", "currency exchange", "money converter"],
+  authors: [{ name: "Hasbi Firasyan" }],
+  openGraph: {
+    title: "Currency Converter | Real-time Exchange Rates",
+    description: "Convert currencies easily using real-time exchange rates",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
