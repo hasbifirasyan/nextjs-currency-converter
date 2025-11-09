@@ -4,7 +4,7 @@ A modern, real-time currency converter built with Next.js 16, featuring a beauti
 
 ## 🚀 Live Demo
 
-[View Live Demo]() • [Report Bug](https://github.com/hasbifirasyan/nextjs-currency-converter/issues)
+[View Live Demo](https://currency-converter-hasbi.vercel.app/) • [Report Bug](https://github.com/hasbifirasyan/nextjs-currency-converter/issues)
 
 ## 📋 Table of Contents
 
